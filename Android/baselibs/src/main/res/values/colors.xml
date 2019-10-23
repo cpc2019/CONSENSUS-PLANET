@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!-- 标题栏颜色配置 -->
+  <color name="title_bar_color">@android:color/black</color>
+  <color name="title_bar_divider">#7fd8d8d8</color>
+  <color name="title_text_color">@android:color/black</color>
+
+  <!--通用页面背景色-->
+  <color name="common_page_bg">#f8f8f8</color>
+  <!--状态栏背景色-->
+  <color name="status_bar_bg">#f8f8f8</color>
+
+  <!-- 通用横线颜色 -->
+  <color name="common_line">#e2e4e6</color>
+
+  <color name="black_333333">#333333</color>
+
+  <color name="chart_red">#DF3536</color>
+  <color name="chart_green">#35DF7E</color>
+  <color name="chart_ma5">#18CCF6</color>
+  <color name="chart_ma10">#FE5EDF</color>
+  <color name="chart_ma20">#E7A520</color>
+  <color name="chart_white">#fff</color>
+
+  <color name="white">#ffffff</color>
+  <color name="chart_background">#202326</color>
+  <color name="chart_grid_line">#353941</color>
+  <color name="chart_text">#B1B2B6</color>
+  <color name="chart_selector">#c830343C</color>
+  <color name="chart_tab_background">#30343C</color>
+  <color name="chart_tab_indicator">#FF6601</color>
+  <color name="tab_text_color_selector">#353941</color>
+  <color name="klinebg">#090A0B</color>
+  <color name="kViewztblack">#78797A</color>
+  <color name="cpb_red">#ffff4444</color>
+  <color name="kViewjwblack">#292929</color>
+  <color name="kViewclickblack">#BEC5DA</color>
+  <color name="kline5dayline">#dddddd</color>
+  <color name="kline10dayline">#ede32e</color>
+  <color name="kline30dayline">#f600ff</color>
+  <color name="klinered">#CD1A1E</color>
+  <color name="klinegreen">#25A749</color>
+  <color name="tabbg">#272729</color>
+  <color name="tabbgselected">#3b3b3d</color>
+  <color name="subject_select">#E70101</color>
+  <color name="subject_select2">#DE394D</color>
+  <color name="kViewblack">#181818</color>
+  <color name="seperater_color">#fefefe</color>
+
+  <color name="trans">#00000000</color>
+  <color name="black">#000000</color>
+  <color name="alertdialog_line">#c6c6c6</color>
+  <color name="actionsheet_blue">#037BFF</color>
+  <color name="actionsheet_red">#FD4A2E</color>
+  <color name="actionsheet_gray">#666666</color>
+
+  <!-- FButton的默认颜色 -->
+  <color name="fbutton_default_color">#3eadeb</color>
+  <color name="fbutton_default_shadow_color">#ff3493c8</color>
+  <!-- //Color Swatches provided by http://designmodo.github.io/Flat-UI/ -->
+  <color name="fbutton_color_turquoise">#1abc9c</color>
+  <color name="fbutton_color_green_sea">#FFFFFF</color>
+  <color name="fbutton_color_emerald">#2ecc71</color>
+  <color name="fbutton_color_nephritis">#27ae60</color>
+  <color name="fbutton_color_peter_river">#3498db</color>
+  <color name="fbutton_color_belize_hole">#2980b9</color>
+  <color name="fbutton_color_amethyst">#9b59b6</color>
+  <color name="fbutton_color_wisteria">#8e44ad</color>
+  <color name="fbutton_color_wet_asphalt">#34495e</color>
+  <color name="fbutton_color_midnight_blue">#2c3e50</color>
+  <color name="fbutton_color_sun_flower">#f1c40f</color>
+  <color name="fbutton_color_orange">#f39c12</color>
+  <color name="fbutton_color_carrot">#e67e22</color>
+  <color name="fbutton_color_pumpkin">#d35400</color>
+  <color name="fbutton_color_alizarin">#e74c3c</color>
+  <color name="fbutton_color_pomegranate">#c0392b</color>
+  <color name="fbutton_color_clouds">#ecf0f1</color>
+  <color name="fbutton_color_silver">#bdc3c7</color>
+  <color name="fbutton_color_concrete">#95a5a6</color>
+  <color name="fbutton_color_asbestos">#7f8c8d</color>
+  <color name="fbutton_color_transparent">@android:color/transparent</color>
+</resources>

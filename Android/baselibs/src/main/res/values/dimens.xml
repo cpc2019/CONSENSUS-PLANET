@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- ********** 公共 ********** -->
+
+  <dimen name="common_title_bar_height">44dp</dimen>
+  <dimen name="common_line_width">1px</dimen>
+  <dimen name="common_horizontal_margin">15dp</dimen>
+  <dimen name="common_margin">10dp</dimen>
+  <dimen name="common_status_bar_height">24dp</dimen>
+  <dimen name="text_size_8">8sp</dimen>
+  <dimen name="text_size_10">10sp</dimen>
+  <dimen name="text_size_11">11sp</dimen>
+  <dimen name="text_size_12">12sp</dimen>
+  <dimen name="text_size_13">13sp</dimen>
+  <dimen name="text_size_14">14sp</dimen>
+  <dimen name="text_size_15">15sp</dimen>
+  <dimen name="text_size_16">16sp</dimen>
+  <dimen name="text_size_17">17sp</dimen>
+  <dimen name="text_size_18">18sp</dimen>
+  <dimen name="text_size_19">19sp</dimen>
+  <dimen name="text_size_20">20sp</dimen>
+  <dimen name="text_size_22">22sp</dimen>
+  <dimen name="text_size_23">23sp</dimen>
+  <dimen name="text_size_24">24sp</dimen>
+  <dimen name="text_size_26">26sp</dimen>
+  <dimen name="text_size_30">30sp</dimen>
+  <dimen name="text_size_35">35sp</dimen>
+  <dimen name="text_size_40">40sp</dimen>
+
+
+  <!-- ********** 底部导航栏 ********** -->
+
+  <dimen name="bottom_navigation_height">49dp</dimen>
+  <dimen name="bottom_navigation_text_size">10sp</dimen>
+  <dimen name="bottom_navigation_icon_margin">2dp</dimen>
+  <dimen name="bottom_navigation_text_bottom_margin">2dp</dimen>
+
+  <!-- ********** 主页 ********** -->
+
+  <dimen name="main_page_banner_height">110dp</dimen>
+  <dimen name="common_drawable_padding">4dp</dimen>
+  <dimen name="common_bottom_big_button_margin_top">30dp</dimen>
+  <dimen name="common_item_height">50dp</dimen>
+  <dimen name="space_14">14dp</dimen>
+  <dimen name="space_15">15dp</dimen>
+  <dimen name="space_10">10dp</dimen>
+  <dimen name="space_12">12dp</dimen>
+  <dimen name="space_20">20dp</dimen>
+  <dimen name="space_24">24dp</dimen>
+  <dimen name="space_25">25dp</dimen>
+  <dimen name="space_28">28dp</dimen>
+  <dimen name="space_7">7dp</dimen>
+  <dimen name="space_9">9dp</dimen>
+  <dimen name="space_51">51dp</dimen>
+  <dimen name="space_5">5dp</dimen>
+  <dimen name="space_6">6dp</dimen>
+  <dimen name="space_38">38dp</dimen>
+  <dimen name="space_40">40dp</dimen>
+  <dimen name="space_44">44dp</dimen>
+  <dimen name="space_45">45dp</dimen>
+  <dimen name="space_47">47dp</dimen>
+  <dimen name="space_46">46dp</dimen>
+  <dimen name="space_60">60dp</dimen>
+  <dimen name="space_70">70dp</dimen>
+  <dimen name="space_71">71dp</dimen>
+  <dimen name="space_72">72dp</dimen>
+  <dimen name="space_80">80dp</dimen>
+  <dimen name="space_30">30dp</dimen>
+  <dimen name="space_35">35dp</dimen>
+  <dimen name="space_36">36dp</dimen>
+  <dimen name="space_50">50dp</dimen>
+  <dimen name="space_18">18dp</dimen>
+  <dimen name="space_19">19dp</dimen>
+  <dimen name="space_17">17dp</dimen>
+  <dimen name="space_16">16dp</dimen>
+  <dimen name="space_21">21dp</dimen>
+  <dimen name="space_22">22dp</dimen>
+  <dimen name="space_54">54dp</dimen>
+  <dimen name="space_76">76dp</dimen>
+  <dimen name="space_79">79dp</dimen>
+  <dimen name="space_87">87dp</dimen>
+  <dimen name="space_96">96dp</dimen>
+  <dimen name="space_52">52dp</dimen>
+  <dimen name="space_100">100dp</dimen>
+  <dimen name="space_108">108dp</dimen>
+  <dimen name="space_127">127dp</dimen>
+  <dimen name="space_132">132dp</dimen>
+  <dimen name="space_150">150dp</dimen>
+  <dimen name="space_230">230dp</dimen>
+  <dimen name="space_331">331dp</dimen>
+
+
+  <dimen name="pay_btn_left_margin">42dp</dimen>
+  <dimen name="pay_btn_top_margin">20dp</dimen>
+  <dimen name="pay_btn_height">39dp</dimen>
+  <dimen name="space_13">13dp</dimen>
+  <dimen name="friend_details_bottom_bar_height">58dp</dimen>
+  <dimen name="space_29">29dp</dimen>
+  <dimen name="space_friend_list_item">@dimen/space_5</dimen>
+  <dimen name="space_2">2dp</dimen>
+  <dimen name="space_3">3dp</dimen>
+  <dimen name="space_4">4dp</dimen>
+  <dimen name="space_1">1dp</dimen>
+  <dimen name="text_size_7">7sp</dimen>
+  <dimen name="divide_line_height">1px</dimen>
+  <dimen name="card_height">3dp</dimen>
+
+  <dimen name="pop_item_padding">10dp</dimen>
+  <dimen name="pop_item_text_size">16sp</dimen>
+  <dimen name="pop_radius">4dp</dimen>
+  <dimen name="pop_action_sheet_text_size_title">16sp</dimen>
+  <dimen name="pop_action_sheet_text_size_message">14sp</dimen>
+
+  <!--滚动咨询-->
+  <dimen name="prefer_view_height">40dp</dimen>
+  <dimen name="max_view_height">64dp</dimen>
+  <dimen name="prefer_line_spacing">8dp</dimen>
+  <dimen name="prefer_view_padding_vertical">5dp</dimen>
+  <dimen name="prefer_view_padding_vertical_minus">-5dp</dimen>
+  <dimen name="prefer_view_padding_horizontal_minus">-16dp</dimen>
+  <dimen name="prefer_view_padding_horizontal">16dp</dimen>
+  <dimen name="prefer_inner_padding_horizontal">32dp</dimen>
+  <dimen name="prefer_slide_width">300dp</dimen>
+  <dimen name="prefer_slide_header_height">185.4dp</dimen>
+  <dimen name="prefer_header_image_size">70dp</dimen>
+  <dimen name="prefer_appbar_layout_height">250dp</dimen>
+  <dimen name="prefer_appbar_margin_top">35dp</dimen>
+  <dimen name="text_view_bottom_line_horizontal">5dp</dimen>
+  <dimen name="text_size_small">12sp</dimen>
+  <dimen name="text_size_normal">14sp</dimen>
+  <dimen name="text_size_large">18sp</dimen>
+  <dimen name="text_size_biggest">26sp</dimen>
+  <dimen name="divider_line_width">1px</dimen>
+
+  <!-- FButton的默认size -->
+  <dimen name="fbutton_default_conner_radius">8dp</dimen>
+  <dimen name="fbutton_default_padding_left">10dp</dimen>
+  <dimen name="fbutton_default_padding_right">10dp</dimen>
+  <dimen name="fbutton_default_padding_top">5dp</dimen>
+  <dimen name="fbutton_default_padding_bottom">5dp</dimen>
+  <dimen name="fbutton_default_shadow_height">4dp</dimen>
+</resources>

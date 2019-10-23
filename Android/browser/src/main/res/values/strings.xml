@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">browser</string>
+  <string name="prompt">提示</string>
+  <string name="unsafe_link">您的连接不是私密连接,攻击者可能会试图从%s窃取您的信息（例如：密码、通讯内容或信用卡信息)</string>
+  <string name="ignore">忽略</string>
+  <string name="cancel">取消</string>
+</resources>

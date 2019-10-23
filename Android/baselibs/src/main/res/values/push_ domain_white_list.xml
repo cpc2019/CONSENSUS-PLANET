@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="push_domain_white_list">
+        <item>www.baidu.com</item>
+        <item>www.qq.com</item>
+        <item>10.20.14.171</item>
+        <item>www.sf-express.com</item>
+        <item>gdown.baidu.com</item>
+        <item>dynamic.12306.cn</item>
+    </string-array>
+</resources>
